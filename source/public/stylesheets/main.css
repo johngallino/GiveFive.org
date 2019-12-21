@@ -1,0 +1,104 @@
+body{
+    font-family: Lato, Helvetica, sans-serif;
+    background-color:darkmagenta;
+    
+}
+
+.hero {
+    background-color: darkmagenta;
+    background: url('../img/hero2.jpg') no-repeat center center;
+    background-size: cover;
+    background-position-y: -80px;
+    color: white;
+    text-align: center;
+    height: 500px;
+    padding:0px;
+}
+
+.signup-hero {
+    background-color: darkmagenta;
+    background: url('../img/Habitat.jpg') no-repeat center center;
+    background-size: cover;
+    background-position-y: -280px;
+    color: white;
+    text-align: center;
+    height: 500px;
+    padding:0px;
+}
+
+.navbar {
+    background-color:rgb(40,40,40);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1.0);
+    font-weight:600;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: darkmagenta;
+}
+
+
+
+.hero h4 {
+    margin-top:28%;
+    font-size: 1.8rem;
+    padding: 5px;
+    text-shadow: 3 3 6px rgb(85, 85, 85);
+    background-color: rgba(139, 0 ,137, .8);
+    
+}
+
+.signup-hero h4 {
+    margin-top:20%;
+    font-size: 1.8rem;
+    padding: 5px;
+    text-shadow: 0 0 6px rgb(0, 0, 0);
+}
+
+.signup-hero form {
+    background-color: pink;
+    padding: 20px;
+}
+
+#howitworks {
+    background-color: white;
+    color: darkmagenta;
+    padding-top:20px;
+    padding-bottom: 20px;
+    
+}
+
+#howitworks ul {
+    text-align:left;
+    
+    list-style: none;
+}
+
+#howitworks li {
+    margin-bottom: 1rem;
+}
+
+#howitworks h4 {
+    text-align: center;
+
+}
+
+#suggest {
+    background-color: rgba(152, 209, 255, 1.0);
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    width:100%;
+}
+
+#footer {
+    background-color: darkmagenta;
+    color: white;
+    padding-top:20px;
+    padding-bottom: 20px;
+    
+}

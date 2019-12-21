@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5de563b7f2b03e89e0b192fb"},"firstName":"hello","lastName":"dolly","email":"hd@email.com"}
+{"_id":{"$oid":"5de56a93664e1656b83c1fce"},"firstName":"test","lastName":"person","email":"testperson@email.com"}
+{"_id":{"$oid":"5de5771b5e70d067f897676c"},"firstName":"Mary","lastName":"Poppins","email":"marypoppins@gmail.com"}
+{"_id":{"$oid":"5df6d859f23c843b64570e67"},"firstName":"Tommy","lastName":"Tester","email":"tt@montclair.edu"}
